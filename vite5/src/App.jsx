@@ -37,7 +37,7 @@ setState(e.target.value)
     <>
     
       <div className="head">
-      <h4>uni... searcher</h4>
+      <h4>university Searcher</h4>
       <button onClick={handleInput}>search</button>
       <input id='contInput' onChange={contry} type="text" />
     
